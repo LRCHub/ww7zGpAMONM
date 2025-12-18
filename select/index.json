@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "レイニー",
+  "base_artist": "Guiano",
+  "createdAt": "2025-12-18T06:05:57.577030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "雨宮天",
+      "has_synced": false,
+      "path": "select/01_レイニー_ブルー_雨宮天.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワン・レイニー・ナイト・イン・トーキョー",
+      "artist": "越路吹雪",
+      "has_synced": false,
+      "path": "select/02_ワン・レイニー・ナイト・イン・トーキョー_越路吹雪.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/03_レイニー_ブルー_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/04_レイニー_ブルー_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": true,
+      "path": "select/05_レイニー_ブルー_Hideaki_Tokunaga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ポカンポカンと雨が降る（レイニー ナイト イン ブルー）",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/06_ポカンポカンと雨が降る(レイニー_ナイト_イン_ブルー)_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "レイニー ブルー",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/07_レイニー_ブルー_徳永英明.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レイニー",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_レイニー_Guiano.txt"
+    }
+  ]
+}
